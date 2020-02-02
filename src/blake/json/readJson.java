@@ -12,6 +12,8 @@ import org.json.simple.parser.ParseException;
 /*******************************************************************
  *  readJson Class with main
  *  Description:  Read the entire flower list from the Json file
+ *  I used Simple Json ideas and layout from:
+ *  https://howtodoinjava.com/library/json-simple-read-write-json-examples/
  *******************************************************************/
 public class readJson {
     public static void main(String[] args) {

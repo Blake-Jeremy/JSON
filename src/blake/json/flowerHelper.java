@@ -7,6 +7,8 @@ import org.json.simple.JSONObject;
  *  flowerHelper Class
  *  Description: Format the Json output and print it to the
  *  screen
+ *  I used Simple Json ideas and layout from:
+ *  https://howtodoinjava.com/library/json-simple-read-write-json-examples/
  *******************************************************************/
 public class flowerHelper {
     public static void parseFlowerObject(JSONObject flower)

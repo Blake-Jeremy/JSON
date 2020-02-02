@@ -9,6 +9,8 @@ import org.json.simple.JSONObject;
 /*******************************************************************
  *  writeJson Class with main
  *  Description: Write 5 flowers to the Json file
+ *  I used Simple Json ideas and layout from:
+ *  https://howtodoinjava.com/library/json-simple-read-write-json-examples/
  *******************************************************************/
 public class writeJson {
     public static void main(String[] args) {
